@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/117156100/199263422-6440b844-190e-4284-a98e-e554d5c2887a.png)
 
 
-### [사용된 모델](https://github.com/dooby99/coin-dectect/blob/main/yolov5.ipynb)
+### [사용된 모델]([https://github.com/dooby99/coin-dectect/blob/main/yolov5.ipynb](https://github.com/dooby99/CoinDetect/blob/main/CoinLabel%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb))
  - yolov5
  
 ### 갯수와 금액 합산
