@@ -23,7 +23,7 @@
 
 
 ### [사용된 모델](#https://github.com/dooby99/CoinDetect/blob/main/CoinLabel%EC%9D%98_%EC%82%AC%EB%B3%B8.ipynb)
- - yolov5
+ - YOLOV5
  
 ### 갯수와 금액 합산
  - To be updated
